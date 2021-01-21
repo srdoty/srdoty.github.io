@@ -1,10 +1,48 @@
 ---
 title: "Publications: Stephen R Doty"
+
+lang: en
+
+header-includes: |
+  <style>
+  /* My custom styling */
+  a {
+  color: #0645ad;
+  text-decoration: none;
+  }
+  a:visited {
+    color: #0b0080;
+  }
+  a:hover {
+    color: #06e;
+  }
+  a:active {
+    color: #faa700;
+  }
+  a:focus {
+    outline: thin dotted;
+  }
+  </style>
 ---
 
+<main>
+### Preprints
 
+1. (with Anthony Giaguinto) *Schur-Weyl duality for tensor powers 
+   of the Burau representation.* Preprint 2020,
+   [arXiv:2012.10439](https://arxiv.org/abs/2012.10439)
 
-1. (with Aaron Lauve and George Seelinger) *Canonical idempotents of
+1. (with Chris Bowman and Stuart Martin) *Integral Schur-Weyl duality 
+   for partition algebras.* Preprint 2019, 
+   [arXiv:1906.00457](https://arxiv.org/abs/1906.00457)
+
+1. (with Chris Bowman and Stuart Martin) *An integral second fundamental
+   theorem of invariant theory for partition algebras.* Preprint 2018,
+   [arXiv:1804.00916](https://arxiv.org/abs/1804.00916)
+
+### Published
+
+4. (with Aaron Lauve and George Seelinger) *Canonical idempotents of
    multiplicity-free families of algebras.* Enseign. Math. 64, 23--63
    (2019).
 
@@ -219,3 +257,4 @@ title: "Publications: Stephen R Doty"
 1. *The Submodule Structure of Weyl Modules for Groups of Type $A_n$.*
    Ph.D. Thesis --- University of Notre Dame, ProQuest LLC, Ann Arbor,
    MI (1982).
+</main>
