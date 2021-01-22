@@ -1,6 +1,6 @@
 ---
 title: Stephen R Doty
-subtitle: "Professor Emeritus  of [Mathematics & Statistics](https://luc.edu/math), [Computer Science](https://luc.edu/cs)"
+subtitle: "Professor Emeritus of [Mathematics & Statistics](https://luc.edu/math), [Computer Science](https://luc.edu/cs)"
 lang: en
 
 header-includes: |
@@ -104,7 +104,7 @@ Some specialized topics of interest include:
 <details>
 <summary>Preprints</summary>
 
-My preprints on the [arXiv](http://arxiv.org/a/doty_s_1).
+My preprints on the [arXiv](https://arxiv.org/a/doty_s_1).
 
 </details>
 
