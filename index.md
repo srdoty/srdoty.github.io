@@ -2,67 +2,11 @@
 title: Stephen R Doty
 subtitle: "Professor Emeritus of [Mathematics & Statistics](https://luc.edu/math), [Computer Science](https://luc.edu/cs)"
 lang: en
-
-header-includes: |
-  <style>
-  /* My custom styling */
-  a {
-  color: #0645ad;
-  text-decoration: none;
-  }
-  a:visited {
-    color: #0b0080;
-  }
-  a:hover {
-    color: #06e;
-  }
-  a:active {
-    color: #faa700;
-  }
-  a:focus {
-    outline: thin dotted;
-  }
-  
-  body {padding: 0;}
-  header,footer {
-    background-color: #dfdfef50;
-    margin: 0 auto;
-    max-width: none;  /* override */
-    padding: 2rem; 1rem;
-  }
-  footer {background-color: #dfdfef30;}
-  
-  /* The following comes from https://every-layout.dev */
-  .cover {
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
-  padding: 0;
-  }
-
-  .cover > * {
-    margin-top: 0;
-    margin-bottom: 0;
-  }
-
-  .cover > :first-child:not(.centered) {
-    margin-top: 0;
-  }
-
-  .cover > :last-child:not(.centered) {
-    margin-bottom: 0;
-  }
-
-  .cover > .centered {
-    margin-top: auto;
-    margin-bottom: auto;
-  }
-  </style>
 ---
 
 <div class="cover">
 
-<div style="margin: 2rem; auto;">
+<main>
 <details>
 <summary>Contact</summary>
 
@@ -157,14 +101,14 @@ if you initiated the GAP session from the same folder containing the file "weyl.
 
 Please report any problems.
 </details>
-</div>
+</main>
 
 <div>
-<footer style="display: flex;">
+<footer>
 <span>
 ![](img/Crop.jpg){height=80px}
 </span>
-<span style="flex: auto;"></span>
+<span class="stretchable"></span>
 <span>
 [![](img/loyola-logo-tag.png){height=80px}](https://luc.edu)
 </span>

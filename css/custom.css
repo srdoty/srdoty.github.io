@@ -1,0 +1,67 @@
+/* My custom styling */
+
+a {
+color: #0645ad;
+text-decoration: none;
+}
+a:visited {
+color: #0b0080;
+}
+a:hover {
+color: #06e;
+}
+a:active {
+color: #faa700;
+}
+a:focus {
+outline: thin dotted;
+}
+
+body {padding: 0;}
+
+main {
+margin: 1rem auto;
+}
+
+header,footer {
+background-color: #dfdfef60;
+margin: 0 auto;
+max-width: none;  /* override */
+padding: 2rem 1rem;
+}
+
+footer {
+display: flex;
+background-color: #dfdfef40;
+}
+
+/* a stretchable middle element in a flex container */
+.stretchable {
+flex: auto;
+}
+
+/* The following comes from https://every-layout.dev */
+.cover {
+display: flex;
+flex-direction: column;
+min-height: 75vh;
+padding: 0;
+}
+
+.cover > * {
+margin-top: 0;
+margin-bottom: 0;
+}
+
+.cover > :first-child:not(.centered) {
+margin-top: 0;
+}
+
+.cover > :last-child:not(.centered) {
+margin-bottom: 0;
+}
+
+.cover > .centered {
+margin-top: auto;
+margin-bottom: auto;
+}
