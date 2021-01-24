@@ -24,7 +24,7 @@ margin: 1rem auto;
 }
 
 header,footer {
-background-color: #dfdfef60;
+background-color: #EFE8D460;
 margin: 0 auto;
 max-width: none;  /* override */
 padding: 2rem 1rem;
@@ -32,7 +32,7 @@ padding: 2rem 1rem;
 
 footer {
 display: flex;
-background-color: #dfdfef40;
+background-color: #EFE8D430;
 }
 
 /* a stretchable middle element in a flex container */
