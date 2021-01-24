@@ -61,7 +61,8 @@ My preprints on the [arXiv](https://arxiv.org/a/doty_s_1).
 - [Google Scholar](https://scholar.google.com/citations?user=t-PZ_dEAAAAJ&hl=en)
   page
 - [Math Reviews](https://mathscinet-ams-org.flagship.luc.edu/mathscinet/search/publications.html?pg1=INDI&s1=59395)
- listings
+  (login required)
+- [zbMATH Open](https://zbmath.org/authors/?q=doty%2C+stephen-r)
 
 </details>
 
