@@ -28,9 +28,13 @@ header-includes: |
 <main>
 ### Preprints
 
-1. (with Anthony Giaguinto) *Schur-Weyl duality for tensor powers 
-   of the Burau representation.* Preprint 2020,
-   [arXiv:2012.10439](https://arxiv.org/abs/2012.10439)
+1. *Doubly stochastic matrices and Schur-Weyl duality for partition
+   algebras.* Preprint 2021,
+   [arXiv:2109.00107](https://arxiv.org/abs/2109.00107)
+
+1. (with Anthony Giaguinto) *Schur-Weyl duality for twin groups.*
+   Preprint 2021, [arXiv:2105.12875](https://arxiv.org/abs/2105.12875)
+
 
 1. (with Chris Bowman and Stuart Martin) *Integral Schur-Weyl duality 
    for partition algebras.* Preprint 2019, 
@@ -42,7 +46,10 @@ header-includes: |
 
 ### Published
 
-4. (with Aaron Lauve and George Seelinger) *Canonical idempotents of
+5. (with Anthony Giaguinto) *Schur-Weyl duality for tensor powers 
+   of the Burau representation.* Res. Math. Sci. 8, 47 (2021).
+
+1. (with Aaron Lauve and George Seelinger) *Canonical idempotents of
    multiplicity-free families of algebras.* Enseign. Math. 64, 23--63
    (2019).
 
