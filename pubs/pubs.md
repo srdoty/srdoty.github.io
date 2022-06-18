@@ -34,20 +34,18 @@ header-includes: |
 
 1. (with Anthony Giaguinto) *Schur-Weyl duality for twin groups.*
    Preprint 2021, [arXiv:2105.12875](https://arxiv.org/abs/2105.12875)
-
-
-1. (with Chris Bowman and Stuart Martin) *Integral Schur-Weyl duality 
-   for partition algebras.* Preprint 2019, 
-   [arXiv:1906.00457](https://arxiv.org/abs/1906.00457)
-
-1. (with Chris Bowman and Stuart Martin) *An integral second fundamental
-   theorem of invariant theory for partition algebras.* Preprint 2018,
-   [arXiv:1804.00916](https://arxiv.org/abs/1804.00916)
-
+   
 ### Published
 
-5. (with Anthony Giaguinto) *Schur-Weyl duality for tensor powers 
-   of the Burau representation.* Res. Math. Sci. 8, 47 (2021).
+3. (with Chris Bowman and Stuart Martin) *Integral Schur-Weyl duality 
+   for partition algebras.* Algebraic Combinatorics 5, 371--399 (2022).
+
+1. (with Chris Bowman and Stuart Martin) *An integral second fundamental
+   theorem of invariant theory for partition algebras.*
+   Represent. Theory 26, 437--454 (2022).
+
+1. (with Anthony Giaguinto) *Schur-Weyl duality for tensor powers 
+   of the Burau representation.* Res. Math. Sci. 8, No. 47 (2021).
 
 1. (with Aaron Lauve and George Seelinger) *Canonical idempotents of
    multiplicity-free families of algebras.* Enseign. Math. 64, 23--63
@@ -159,7 +157,7 @@ header-includes: |
    the universal enveloping algebra of $\mathfrak{gl}_2$.*
    Algebr. Represent. Theory. 7, 1--17 (2004).
 
-1. *Presenting generalized $q$-Schur algebras.* Represent.  Theory. 7,
+1. *Presenting generalized $q$-Schur algebras.* Represent. Theory. 7,
    196--213 (2003).
 
 1. (with Georgia Benkart) *Derangements and tensor powers of adjoint
