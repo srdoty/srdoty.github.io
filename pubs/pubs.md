@@ -28,13 +28,18 @@ header-includes: |
 <main>
 ### Preprints
 
+1. (with Chris Bowman and Stuart Martin)
+   *Canonical bases and new applications of increasing and decreasing
+   subsequences to invariant theory.* Preprint 2022,
+   [arXiv:2206.12001](https://arxiv.org/abs/2206.12001)
+
 1. *Doubly stochastic matrices and Schur-Weyl duality for partition
    algebras.* Preprint 2021,
    [arXiv:2109.00107](https://arxiv.org/abs/2109.00107)
 
 ### Published
 
-2. (with Anthony Giaguinto) *Schur-Weyl duality for twin groups.*
+3. (with Anthony Giaguinto) *Schur-Weyl duality for twin groups.*
    Transform. Groups (in press). 
    
 1. (with Chris Bowman and Stuart Martin) *Integral Schur-Weyl duality 
