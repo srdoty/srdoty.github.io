@@ -34,8 +34,8 @@ html {
 body {
     margin: 0;
     font-family: var(--sans);
-    /*font-weight: 400;
-    font-style: normal;*/
+    font-weight: 400;
+    font-style: normal;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
     background-color: var(--c3);
@@ -59,7 +59,7 @@ hr {border:0; border-bottom: 1px solid var(--c4)}
 
 h1,h2,h3,h4,h5,h6 {margin: 0.6em 0; font-weight: normal}
 
-h1 {font-size: 2.625em; line-height: 1.2}
+h1 {font-size: 2.25em; line-height: 1.2}
 
 h2 {font-size: 1.625em; line-height: 1.2}
 
