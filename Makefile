@@ -1,5 +1,5 @@
 index.html: index.md
-	pandoc -s -t html5 --css css/mvp.css --css css/custom.css -o index.html index.md
+	pandoc -s -t html5 --css css/basic.css -o index.html index.md
 
 # To use this, edit the file index.md, then type the command:
 #

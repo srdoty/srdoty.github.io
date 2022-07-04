@@ -6,6 +6,12 @@ lang: en
 header-includes: |
   <style>
   /* My custom styling */
+  main,header,footer {
+  margin: 0 auto;
+  text-align: left;
+  padding: 1rem 1rem;
+  }
+  header {text-align:center;}
   a {
   color: #0645ad;
   text-decoration: none;
