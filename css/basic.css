@@ -1,5 +1,5 @@
 /* Basic.css  [https://vladocar.github.io/Basic.css]  */
-/* Modified by S.R. Doty 3 July 2022 */
+/* Modified by S.R. Doty July 2022 */
 
 * {box-sizing: border-box}
 
@@ -15,6 +15,7 @@
 --rc: 8px;
 }
 
+/* I don't want dark colors on my page ---
 @media (prefers-color-scheme: dark) {
 	:root {
     --c2:#333;
@@ -22,6 +23,7 @@
     --c4:#fff;
 	}
 }
+end comment */
 
 html {
     -ms-text-size-adjust: 100%;
