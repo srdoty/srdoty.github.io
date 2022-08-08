@@ -50,7 +50,7 @@ header-includes: |
 
 ### Published
 
-3. (with Anthony Giaguinto) *Schur-Weyl duality for twin groups.*
+4. (with Anthony Giaguinto) *Schur-Weyl duality for twin groups.*
    Transform. Groups, posted on 13 April 2022, DOI 10.1007/s00031-022-09708-w. 
    
 1. (with Chris Bowman and Stuart Martin) *Integral Schur-Weyl duality 
