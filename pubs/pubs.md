@@ -34,6 +34,11 @@ header-includes: |
 <main>
 ### Preprints
 
+1. (with Anthony Giaquinto)
+   *The partial Temperley-Lieb algebra and its representations.*
+   Preprint 2022.
+
+
 1. (with Chris Bowman and Stuart Martin)
    *Canonical bases and new applications of increasing and decreasing
    subsequences to invariant theory.* Preprint 2022,
@@ -46,7 +51,7 @@ header-includes: |
 ### Published
 
 3. (with Anthony Giaguinto) *Schur-Weyl duality for twin groups.*
-   Transform. Groups (in press). 
+   Transform. Groups, posted on 13 April 2022, DOI 10.1007/s00031-022-09708-w. 
    
 1. (with Chris Bowman and Stuart Martin) *Integral Schur-Weyl duality 
    for partition algebras.* Algebraic Combinatorics 5, 371--399 (2022).
