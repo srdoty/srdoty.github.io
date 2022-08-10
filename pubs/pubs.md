@@ -36,7 +36,7 @@ header-includes: |
 
 1. (with Anthony Giaquinto)
    *The partial Temperley-Lieb algebra and its representations.*
-   Preprint 2022.
+   Preprint 2022, [arXiv:2208.04296](https://arxiv.org/abs/2208.04296)
 
 
 1. (with Chris Bowman and Stuart Martin)
