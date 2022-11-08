@@ -46,7 +46,8 @@ header-includes: |
 
 1. *Doubly stochastic matrices and Schur-Weyl duality for partition
    algebras.* Preprint 2021,
-   [arXiv:2109.00107](https://arxiv.org/abs/2109.00107)
+   [arXiv:2109.00107](https://arxiv.org/abs/2109.00107); to appear in
+   [Electronic J. of Combinatorics](https://www.combinatorics.org)
 
 ### Published
 
