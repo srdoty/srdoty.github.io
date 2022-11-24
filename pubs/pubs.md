@@ -36,7 +36,8 @@ header-includes: |
 
 1. (with Anthony Giaquinto)
    *The partial Temperley-Lieb algebra and its representations.*
-   Preprint 2022, [arXiv:2208.04296](https://arxiv.org/abs/2208.04296)
+   Preprint 2022, [arXiv:2208.04296](https://arxiv.org/abs/2208.04296),
+   to appear in J. Comb. Algebra (see <https://rdcu.be/c0h6c>).
 
 
 1. (with Chris Bowman and Stuart Martin)
@@ -44,14 +45,16 @@ header-includes: |
    subsequences to invariant theory.* Preprint 2022,
    [arXiv:2206.12001](https://arxiv.org/abs/2206.12001)
 
-1. *Doubly stochastic matrices and Schur-Weyl duality for partition
-   algebras.* Preprint 2021,
-   [arXiv:2109.00107](https://arxiv.org/abs/2109.00107); to appear in
-   [Electronic J. of Combinatorics](https://www.combinatorics.org)
+
 
 ### Published
 
-4. (with Anthony Giaguinto) *Schur-Weyl duality for twin groups.*
+3. *Doubly stochastic matrices and Schur-Weyl duality for partition
+   algebras.* 
+   [Electronic J. of Combinatorics](https://doi.org/10.37236/10831)
+   29(4) (2022), Article No. P4.28. 
+
+1. (with Anthony Giaquinto) *Schur-Weyl duality for twin groups.*
    Transform. Groups, posted on 13 April 2022, DOI 10.1007/s00031-022-09708-w. 
    
 1. (with Chris Bowman and Stuart Martin) *Integral Schur-Weyl duality 
