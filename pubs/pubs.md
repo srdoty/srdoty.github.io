@@ -35,6 +35,15 @@ header-includes: |
 ### Preprints
 
 1. (with Anthony Giaquinto)
+   *Origins of the Temperley-Lieb algebra: early history.* Preprint 2023,
+   [arXiv:2307.11929](https://arxiv.org/abs/2307.11929)
+
+1. (with Anthony Giaquinto)
+   *An orthogonal realization of representations of the
+   Temperley-Lieb algebra.* Preprint 2023,
+   [arXiv:2306.17352](https://arxiv.org/abs/2306.17352)
+
+1. (with Anthony Giaquinto)
    *The partial Temperley-Lieb algebra and its representations.*
    Preprint 2022, [arXiv:2208.04296](https://arxiv.org/abs/2208.04296),
    to appear in J. Comb. Algebra. 
@@ -49,7 +58,7 @@ header-includes: |
 
 ### Published
 
-3. *Doubly stochastic matrices and Schur-Weyl duality for partition
+5. *Doubly stochastic matrices and Schur-Weyl duality for partition
    algebras.* 
    [Electronic J. of Combinatorics](https://doi.org/10.37236/10831)
    29(4) (2022), Article No. P4.28. 
