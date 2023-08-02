@@ -86,6 +86,7 @@ My preprints on the [arXiv](https://arxiv.org/a/doty_s_1).
 <summary>Publications</summary>
 
 - [HTML list](pubs/pubs.html)
+- [Errata](pubs/errata.html)
 - [ORCID](https://orcid.org/0000-0003-3927-3009) page
 - [Google Scholar](https://scholar.google.com/citations?user=t-PZ_dEAAAAJ&hl=en)
   page
