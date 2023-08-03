@@ -36,7 +36,7 @@ header-includes: |
 ### Comments
 
 1. (Reporting an inaccuracy.) Starting in 2001, many papers giving
-   presentations of Schur algeras, $q$-Schur algebras, and generalized
+   presentations of Schur algebras, $q$-Schur algebras, and generalized
    Schur (and $q$-Schur) algebras were published, by myself with
    Giaquinto, myself, Du and Parshall, and a number of others. In all
    of those papers, the ($q$)-Serre relations were imposed on the
