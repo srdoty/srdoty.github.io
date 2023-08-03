@@ -1,5 +1,5 @@
 ---
-title: "Errata: Stephen R Doty"
+title: "Comments and Errata: Stephen R Doty"
 
 lang: en
 
@@ -33,21 +33,30 @@ header-includes: |
 
 <main>
 
+### Comments
+
+1. (Reporting an inaccuracy.) Starting in 2001, many papers giving
+   presentations of Schur algeras, $q$-Schur algebras, and generalized
+   Schur (and $q$-Schur) algebras were published, by myself with
+   Giaquinto, myself, Du and Parshall, and a number of others. In all
+   of those papers, the ($q$)-Serre relations were imposed on the
+   generators of of the plus and minus parts of the (quantized)
+   enveloping algebra. However, as pointed out by R. Rouquier, the
+   ($q$)-Serre relations are *consequences* of the other defining
+   relations, and thus can be omitted from the presentations in all of
+   those papers. Details and a proof can be found in the paper (with
+   Anthony Giaquinto): [*Cellular bases of generalised $q$-Schur
+   algebras,* Math. Proc. Camb. Philos. Soc. 162, 533--560 (2017)].
+
+   
+### Errata
+
 1. (with J. Matthew Douglass) *Schur--Weyl duality and the free Lie
    algebra.* Proc. Amer. Math. Soc. 145, 3263--3277 (2017).
 
    Corollary 2.4 is incorrect. See Remark 6.1 in [S. Donkin, 
    J. Algebra 526 (2018)].
 
-
-1. (with Anthony Giaquinto) *Cellular bases of generalised $q$-Schur
-   algebras.* Math. Proc. Camb. Philos. Soc. 162, 533--560 (2017).
-
-   This paper proves that the $q$-Serre relations are automatically
-   satisfied in (generalized) $q$-Schur algebras. This is also true when
-   $q = 1$ (the classical case). Thus, imposing those relations in the
-   earlier presentations of those algebras wasn't neccessary. (This
-   was pointed out by R. Rouquier.)
 
 1. (with David J. Benson) *Schur--Weyl duality over finite fields.*
    Arch.  Math. 93, 425--435 (2009).
