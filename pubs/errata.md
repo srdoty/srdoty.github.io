@@ -70,7 +70,8 @@ header-includes: |
    Represent. Theory. 12, 58--83 (2008).
 
    There are several mistakes in this paper. See [S. Donkin,
-   J. Algebra 405 (2014)] for corrections.
+   J. Algebra 405 (2014)] and [F. Marko, arXiv:2307.15628] for
+   corrections.
 
 
 1. (with Anthony Giaquinto) *Presenting Schur algebras.*
