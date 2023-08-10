@@ -82,6 +82,7 @@ header-includes: |
 
 1. (with J. Matthew Douglass) *Schur-Weyl duality and the free Lie
    algebra.* Proc. Amer. Math. Soc. 145, 3263--3277 (2017).
+   See [Errata](errata.pdf). 
 
 1. (with Anthony Giaquinto) *Cellular bases of generalised $q$-Schur
    algebras.* Math. Proc. Camb. Philos. Soc. 162, 533--560 (2017).
@@ -128,7 +129,7 @@ header-includes: |
    Theory. 19, 531--535 (2009).
 
 1. (with David J. Benson) *Schur--Weyl duality over finite fields.*
-   Arch.  Math. 93, 425--435 (2009).
+   Arch.  Math. 93, 425--435 (2009). See [Errata](errata.pdf).
 
 1. *Schur-Weyl duality in positive characteristic.* In: Lin, Z. and
    Wang, J. (eds.) Contemp. Math. 478, pp. 15--28. Amer.  Math,
@@ -152,7 +153,7 @@ header-includes: |
    (2008).
 
 1. (with Richard Dipper) *The rational Schur algebra.*
-   Represent. Theory. 12, 58--83 (2008).
+   Represent. Theory. 12, 58--83 (2008). See [Errata](errata.pdf).
 
 1. (with Richard Dipper and Jun Hu) *Brauer algebras, symplectic Schur
    algebras and Schur-Weyl duality.* Trans. Amer. Math. Soc. 360,
@@ -191,10 +192,10 @@ header-includes: |
 
 1. (with Georgia Benkart) *Derangements and tensor powers of adjoint
    modules for $\mathfrak{sl}_n$.* J. Algebraic Combin. 16, 31--42
-   (2002).
+   (2002). See [Errata](errata.pdf).
 
 1. (with Anthony Giaquinto) *Presenting Schur algebras.*
-   Internat. Math. Res.  Notices. 2002, 1907 (2002).
+   Internat. Math. Res.  Notices. 2002, 1907 (2002). See [Errata](errata.pdf).
 
 1. (with Daniel K. Nakano) *Relating the cohomology of general linear
    groups and symmetric groups.* In: Modular Representation Theory of
@@ -205,6 +206,7 @@ header-includes: |
 
 1. (with Karin Erdmann, Stuart Martin, and Daniel K. Nakano)
    *Representation type of Schur algebras.* Math Z. 232, 137--182 (1999).
+   See [Errata](errata.pdf).
 
 1. *Representation theory of reductive normal algebraic monoids.*
    Trans. Amer. Math. Soc. 351, 2539--2551 (1999).
