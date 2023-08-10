@@ -30,7 +30,7 @@ header-includes: |
    relations, and thus can be omitted from the presentations in all of
    those papers. Details and a proof can be found in the paper (with
    Anthony Giaquinto): [*Cellular bases of generalised $q$-Schur
-   algebras,* Math. Proc. Camb. Philos. Soc. 162, 533--560 (2017)].
+   algebras,* [Math. Proc. Camb. Philos. Soc. 162, 533--560 (2017)](https://doi.org/10.1017/S0305004116000621)].
 
    
 ### Errata
@@ -39,23 +39,26 @@ header-includes: |
    algebra.* Proc. Amer. Math. Soc. 145, 3263--3277 (2017).
 
    Corollary 2.4 is incorrect. See Remark 6.1 in [S. Donkin, 
-   J. Algebra 526 (2018)].
+   [J. Algebra 526 (2018)](https://doi.org/10.1016/j.jalgebra.2019.01.030)].
 
 
 1. (with David J. Benson) *Schur--Weyl duality over finite fields.*
    Arch.  Math. 93, 425--435 (2009).
 
-   The proof of Lemma 4.1 has a minor mistake, but the result is
-   correct. See the proof of Lemma 3.2 in [T. Cruz, Commun. in Algebra
-   47 (2019)] for a correct argument.
+   The proof of Lemma 4.1 has a minor mistake, although the result is
+   correct. See the proof of Lemma 3.2 in [T. Cruz, [Commun. in
+   Algebra 47 (2019)](https://doi.org/10.1080/00927872.2018.1513010)]
+   for a correct argument.
 
 
 1. (with Richard Dipper) *The rational Schur algebra.*
    Represent. Theory. 12, 58--83 (2008).
 
    There are several mistakes in this paper. See [S. Donkin,
-   J. Algebra 405 (2014)] and [F. Marko, arXiv:2307.15628] for
-   corrections.
+   [J. Algebra 405
+   (2014)](https://doi.org/10.1016/j.jalgebra.2014.01.034)] and
+   [F. Marko, [arXiv:2307.15628](https://arxiv.org/abs/2307.15628)]
+   for corrections.
 
 
 1. (with Anthony Giaquinto) *Presenting Schur algebras.*
