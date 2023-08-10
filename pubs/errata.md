@@ -2,6 +2,7 @@
 title: "Comments and Errata: Stephen R Doty"
 
 lang: en
+colorlinks: true
 
 header-includes: |
   <style>
@@ -12,27 +13,10 @@ header-includes: |
   padding: 1rem 1rem;
   }
   header {text-align:center;}
-  a {
-  color: #0645ad;
-  text-decoration: none;
-  }
-  a:visited {
-    color: #0b0080;
-  }
-  a:hover {
-    color: #06e;
-  }
-  a:active {
-    color: #faa700;
-  }
-  a:focus {
-    outline: thin dotted;
-  }
   </style>
 ---
 
 <main>
-
 ### Comments
 
 1. (Reporting an inaccuracy.) Starting in 2001, many papers giving
@@ -89,7 +73,8 @@ header-includes: |
 
    There is an error in 1.15--1.18 in the published version of this
    paper.  A corrected version of the published paper is available
-   [here](https://doty.math.luc.edu/pubs/bd-08-02-2004.pdf).
+   at <https://doty.math.luc.edu/pubs/bd-08-02-2004.pdf>. (Thanks to
+   Alberto Elduque for pointing out the error.)
 
 1. (with Karin Erdmann, Stuart Martin, and Daniel K. Nakano)
    *Representation type of Schur algebras.* Math Z. 232, 137--182 (1999).

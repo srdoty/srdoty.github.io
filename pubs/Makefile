@@ -5,7 +5,7 @@ errata.html: errata.md
 	pandoc -s -t html5 --css ../css/basic.css -o errata.html errata.md
 	
 errata.pdf: errata.md
-	pandoc -s -t pdf -o errata.pdf errata.md
+	pandoc -V geometry:margin=1in -s -t pdf -o errata.pdf errata.md
 
 # To use this, make edits to pubs.md and/or errata.md, then type:
 #
