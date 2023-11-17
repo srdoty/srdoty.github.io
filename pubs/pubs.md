@@ -55,7 +55,7 @@ header-includes: |
 
 4. (with Anthony Giaquinto)
    *The partial Temperley–Lieb algebra and its representations.*
-   [J. Comb. Algebra](https:doi.org/10.4171/JCA/74) 7 
+   [J. Comb. Algebra](https://doi.org/10.4171/JCA/74) 7 
    no. 3/4, 401–439 (2023).
 
 
