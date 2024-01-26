@@ -41,7 +41,7 @@ header-includes: |
 1. (with Anthony Giaquinto)
    *An orthogonal realization of representations of the
    Temperley-Lieb algebra.* Preprint 2023,
-   [arXiv:2306.17352](https://arxiv.org/abs/2306.17352)
+   [arXiv:2306.17352](https://arxiv.org/abs/2306.17352) *In Press*
 
 
 1. (with Chris Bowman and Stuart Martin)
@@ -189,7 +189,7 @@ header-includes: |
    Algebr. Represent. Theory. 7, 1--17 (2004).
 
 1. *Presenting generalized $q$-Schur algebras.* Represent. Theory. 7,
-   196--213 (2003).
+   196--213 (2003). See [Errata](errata.pdf).
 
 1. (with Georgia Benkart) *Derangements and tensor powers of adjoint
    modules for $\mathfrak{sl}_n$.* J. Algebraic Combin. 16, 31--42

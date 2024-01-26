@@ -60,6 +60,14 @@ header-includes: |
    [F. Marko, [arXiv:2307.15628](https://arxiv.org/abs/2307.15628)]
    for corrections.
 
+1. *Presenting generalized q-Schur algebras.* Represent. Theory. 7,
+   196–-213 (2003).
+
+   In equations 8.1(b), the right hand side is missing a *q*-binimial
+   coefficent. In equations 8.4(b), the right hand side is missing an
+   ordinary binomial coefficient. (Thanks to Chris Bowman for
+   reporting this.)
+
 1. (with Georgia Benkart)  *Derangements and tensor powers of adjoint
    modules for $\mathfrak{sl}_n$.* J. Algebraic Combin. 16, 31--42 (2002).
 
