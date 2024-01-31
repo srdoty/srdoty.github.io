@@ -38,11 +38,6 @@ header-includes: |
    *Origins of the Temperley-Lieb algebra: early history.* Preprint 2023,
    [arXiv:2307.11929](https://arxiv.org/abs/2307.11929)
 
-1. (with Anthony Giaquinto)
-   *An orthogonal realization of representations of the
-   Temperley-Lieb algebra.* Preprint 2023,
-   [arXiv:2306.17352](https://arxiv.org/abs/2306.17352) *In Press*
-
 
 1. (with Chris Bowman and Stuart Martin)
    *Canonical bases and new applications of increasing and decreasing
@@ -53,7 +48,13 @@ header-includes: |
 
 ### Published
 
-4. (with Anthony Giaquinto)
+3. (with Anthony Giaquinto)
+   *An orthogonal realization of representations of the
+   Temperley-Lieb algebra.* J. Algebra (2024),
+   [https://doi.org/10.1016/j.jalgebra.2023.12.030](https://authors.elsevier.com/a/1iW0i4%7EFPITka).
+
+
+1. (with Anthony Giaquinto)
    *The partial Temperley–Lieb algebra and its representations.*
    [J. Comb. Algebra](https://doi.org/10.4171/JCA/74) 7 
    no. 3/4, 401–439 (2023).
