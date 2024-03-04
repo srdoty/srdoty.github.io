@@ -112,13 +112,17 @@ My preprints on the [arXiv](https://arxiv.org/a/doty_s_1).
 <details>
 <summary>Weyl modules: GAP Package</summary>
 
-A [GAP](https://www.gap-system.org/) package supporting computations with Weyl modules and simple modules for a given simply-connected, semisimple, algebraic group in positive characteristic. The package computes submodule structure, simple characters, and decomposition numbers. The package also has some (limited) support for Schur algebras and symmetric groups.  Current version is **Version 1.1**.
+A [GAP](https://www.gap-system.org/) package supporting computations with Weyl modules and simple modules for a given simply-connected simple algebraic group in positive characteristic. The package computes simple characters, decomposition numbers, and structural information. The package also has some (limited) support for Schur algebras and symmetric groups.  Current version is **Version 2.0**.
+
+- Version 2.0: [package website](WeylModulesNew)
 
 - Version 1.1: [GAP-files](weyl/version_1.1/weylmod.zip), [User-manual](weyl/version_1.1/manual.pdf) (bug fix; manual didn't change)
 
 - Version 1.0: [GAP-files](weyl/version_1.0/weylmod.zip), [User-manual](weyl/version_1.0/manual.pdf)
 
 - Version 0.5: [GAP-files](weyl/version_0.5/weylmod.zip), [User-manual](weyl/version_0.5/manual.pdf)
+
+**Instructions for Versions before 2.0 only!**
 
 To try the software, download the GAP-files (a zip archive) and unpack it somewhere. It should unpack into three files (weyl.g, weylmod.gd, and weylmod.gi).  From the same folder where you unpacked those files, initiate GAP by typing:
 
