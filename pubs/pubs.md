@@ -50,8 +50,10 @@ header-includes: |
 
 3. (with Anthony Giaquinto)
    *An orthogonal realization of representations of the
-   Temperley-Lieb algebra.* J. Algebra (2024),
-   [https://doi.org/10.1016/j.jalgebra.2023.12.030](https://authors.elsevier.com/a/1iW0i4%7EFPITka).
+   Temperley-Lieb algebra.*
+   [J. Algebra](https://doi.org/10.1016/j.jalgebra.2023.12.030)
+   655, 294--332 (2024),
+   
 
 
 1. (with Anthony Giaquinto)
