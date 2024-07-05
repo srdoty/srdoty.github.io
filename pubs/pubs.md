@@ -39,28 +39,25 @@ header-includes: |
    [arXiv:2307.11929](https://arxiv.org/abs/2307.11929)
 
 
-1. (with Chris Bowman and Stuart Martin)
-   *Canonical bases and new applications of increasing and decreasing
-   subsequences to invariant theory.* Preprint 2022,
-   [arXiv:2206.12001](https://arxiv.org/abs/2206.12001)
-
-
-
 ### Published
 
-3. (with Anthony Giaquinto)
+2. (with Chris Bowman and Stuart Martin)
+   *Canonical bases and new applications of increasing and decreasing
+   subsequences to invariant theory.*
+   [J. Algebra](https://doi.org/10.1016/j.jalgebra.2024.06.026) 2024.
+   (See also 
+   [arXiv:2206.12001](https://arxiv.org/abs/2206.12001).)
+
+1. (with Anthony Giaquinto)
    *An orthogonal realization of representations of the
    Temperley-Lieb algebra.*
    [J. Algebra](https://doi.org/10.1016/j.jalgebra.2023.12.030)
    655, 294--332 (2024),
    
-
-
 1. (with Anthony Giaquinto)
    *The partial Temperley–Lieb algebra and its representations.*
    [J. Comb. Algebra](https://doi.org/10.4171/JCA/74) 7 
    no. 3/4, 401–439 (2023).
-
 
 1. *Doubly stochastic matrices and Schur-Weyl duality for partition
    algebras.* 
