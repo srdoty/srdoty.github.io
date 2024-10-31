@@ -44,15 +44,18 @@ header-includes: |
 2. (with Chris Bowman and Stuart Martin)
    *Canonical bases and new applications of increasing and decreasing
    subsequences to invariant theory.*
-   [J. Algebra](https://doi.org/10.1016/j.jalgebra.2024.06.026) 2024.
-   (See also 
-   [arXiv:2206.12001](https://arxiv.org/abs/2206.12001).)
+   [J. Algebra](https://doi.org/10.1016/j.jalgebra.2024.06.026)
+   659, 23--43 (2024).
+
+1. (with Anthony Giaquinto) *Schur-Weyl duality for twin groups.*
+   [Transform. Groups](doi={https://doi.org/10.1007/s00031-022-09708-w})
+   29, no. 2, 621--645 (2024). 
 
 1. (with Anthony Giaquinto)
    *An orthogonal realization of representations of the
    Temperley-Lieb algebra.*
    [J. Algebra](https://doi.org/10.1016/j.jalgebra.2023.12.030)
-   655, 294--332 (2024),
+   655, 294--332 (2024).
    
 1. (with Anthony Giaquinto)
    *The partial Temperley–Lieb algebra and its representations.*
@@ -63,9 +66,6 @@ header-includes: |
    algebras.* 
    [Electronic J. of Combinatorics](https://doi.org/10.37236/10831)
    29(4) (2022), Article No. P4.28. 
-
-1. (with Anthony Giaquinto) *Schur-Weyl duality for twin groups.*
-   Transform. Groups, posted on 13 April 2022 (see <https://rdcu.be/c0h6c>).
    
 1. (with Chris Bowman and Stuart Martin) *Integral Schur-Weyl duality 
    for partition algebras.* Algebraic Combinatorics 5, 371--399 (2022).
