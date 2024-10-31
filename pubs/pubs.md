@@ -48,7 +48,7 @@ header-includes: |
    659, 23--43 (2024).
 
 1. (with Anthony Giaquinto) *Schur-Weyl duality for twin groups.*
-   [Transform. Groups](https://doi.org/10.1007/s00031-022-09708-w})
+   [Transform. Groups](https://doi.org/10.1007/s00031-022-09708-w)
    29, no. 2, 621--645 (2024). 
 
 1. (with Anthony Giaquinto)
