@@ -51,7 +51,44 @@ with a centered -- yet left justified -- list of items.
 
 
 <details>
-<summary>Research</summary>
+<summary>Curriculum Vitae</summary>
+
+- **Currently:** Professor Emeritus, Loyola University Chicago
+- **1994-2020:** Professor, Loyola University Chicago
+- **1987-1994:** Assistant and Associate Professor, Loyola University Chicago
+- **1985-1987:** Kenna Assistant Professor, University of Note Dame
+- **1982-1985:** Acting Assistant Professor, University of Washington
+- **1982:** PhD, Mathematics, University of Notre Dame (Advisor: W J Wong)
+
+</details>
+
+
+<details>
+<summary>Lecture Notes on Abstract Algebra</summary>
+*Lecture Notes in Abstract Algebra* is a textbook for a
+ first undergraduate course in abstract algebra. It is free and open
+ source.
+
+Here is the pdf file:
+[abstract-alg.pdf](abstract-alg.pdf). 
+
+
+The book is published under a Creative Commons (CC BY 4.0)
+[license](https://creativecommons.org/licenses/by/4.0),
+which means that you can distribute, remix, adapt, and build upon the
+material for any purpose, even commercially, as long as you give
+appropriate credit, provide a link to the license, and indicate if
+changes were made.
+
+This book is open source, which means that the \LaTeX\ source code is
+freely available on the author's GitHub page, at
+[github.com/srdoty/AbstractAlgebraBook](https://github.com/srdoty/AbstractAlgebraBook).
+
+</details>
+
+
+<details>
+<summary>Research Interests</summary>
 I'm interested in algebraic
 [representation theory](https://en.wikipedia.org/wiki/Representation_theory),
 including for instance representations of:
@@ -74,8 +111,9 @@ Some specialized topics of interest include:
 </details>
 
 
+
 <details>
-<summary>Preprints</summary>
+<summary>Research Preprints</summary>
 
 My preprints on the [arXiv](https://arxiv.org/a/doty_s_1).
 
@@ -83,7 +121,7 @@ My preprints on the [arXiv](https://arxiv.org/a/doty_s_1).
 
 
 <details>
-<summary>Publications</summary>
+<summary>Research Publications</summary>
 
 - [HTML list](pubs/pubs.html)
 - [Errata](pubs/errata.pdf)
@@ -96,17 +134,7 @@ My preprints on the [arXiv](https://arxiv.org/a/doty_s_1).
 
 </details>
 
-<details>
-<summary>Vitae</summary>
 
-- **Currently:** Professor Emeritus, Loyola University Chicago
-- **1994-2020:** Professor, Loyola University Chicago
-- **1987-1994:** Assistant and Associate Professor, Loyola University Chicago
-- **1985-1987:** Kenna Assistant Professor, University of Note Dame
-- **1982-1985:** Acting Assistant Professor, University of Washington
-- **1982:** PhD, Mathematics, University of Notre Dame (Advisor: W J Wong)
-
-</details>
 
 
 <details>
