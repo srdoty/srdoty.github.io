@@ -69,8 +69,7 @@ with a centered -- yet left justified -- list of items.
  first undergraduate course in abstract algebra. It is free and open
  source.
 
-Here is the  
-[PDF file](abstract-alg.pdf).
+Here is the [PDF file](abstract-alg.pdf).
 
 The book is published under a Creative Commons (CC BY 4.0)
 [license](https://creativecommons.org/licenses/by/4.0),
