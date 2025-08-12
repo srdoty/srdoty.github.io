@@ -54,11 +54,15 @@ header-includes: |
 1. (with Richard Dipper) *The rational Schur algebra.*
    Represent. Theory. 12, 58--83 (2008).
 
-   There are several mistakes in this paper. See [S. Donkin,
-   [J. Algebra 405
-   (2014)](https://doi.org/10.1016/j.jalgebra.2014.01.034)] and
-   [F. Marko, [arXiv:2307.15628](https://arxiv.org/abs/2307.15628)]
-   for corrections.
+   The proof of Theorem 5.2 contains a gap, although the result is correct.
+   The argument is completed in Section 1 of [S. Donkin, [J. Algebra 405
+   (2014)](https://doi.org/10.1016/j.jalgebra.2014.01.034)].
+   As pointed out in that same reference, the presentation
+   (in characteristic $0$) of $S(n;r,s)$ given in Section 7 is incorrect.
+   A correct presentation can be found in Section 6.2 of
+   [Doty, Giaquinto, and Sullivan,
+   [Adv. Math. 221 (2009)](https://doi.org/10.1016/j.aim.2009.01.012)].
+
 
 1. *Presenting generalized q-Schur algebras.* Represent. Theory. 7,
    196–-213 (2003).
@@ -73,8 +77,9 @@ header-includes: |
 
    There is an error in 1.15--1.18 in the published version of this
    paper.  A corrected version of the published paper is available
-   at <https://doty.math.luc.edu/pubs/bd-08-02-2004.pdf>. (Thanks to
-   Alberto Elduque for pointing out the error.)
+   at <https://doty.math.luc.edu/pubs/bd-08-02-2004.pdf> and on the
+   [arXiv](https://arxiv.org/abs/math/0108106).
+   (Thanks to Alberto Elduque for pointing out the error.)
 
 
 1. (with Anthony Giaquinto) *Presenting Schur algebras.*
