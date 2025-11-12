@@ -40,19 +40,19 @@ header-includes: |
    [arxiv.org/abs/2511.00169](https://arxiv.org/abs/2511.00169)
 
 
-1. (with Anthony Giaquinto)
-   *Origins of the Temperley-Lieb algebra: early history.* To appear,
-   *J. Knot Theory and its Ramifications*. 
-   [arXiv:2307.11929](https://arxiv.org/abs/2307.11929)
-
 
 ### Published
 
-3. *A computational study of certain Weyl modules for type $G_2$
+2. *A computational study of certain Weyl modules for type $G_2$
    in characteristic 2.* 
    [J. Algebra](https://authors.elsevier.com/a/1ll1P4%7EFPMJ2t)
    686, 503--543, (2026).
-   
+
+1. (with Anthony Giaquinto)
+   *Origins of the Temperley-Lieb algebra: early history.* To appear,
+   *J. Knot Theory and its Ramifications*. [J. Knot Theory and its
+   Ramifications](https://doi.org/10.1142/S0218216525300010) (2025), or 
+   [arXiv:2307.11929](https://arxiv.org/abs/2307.11929)
 
 1. (with Chris Bowman and Stuart Martin)
    *Canonical bases and new applications of increasing and decreasing
