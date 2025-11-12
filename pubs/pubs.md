@@ -49,8 +49,8 @@ header-includes: |
    686, 503--543, (2026).
 
 1. (with Anthony Giaquinto)
-   *Origins of the Temperley-Lieb algebra: early history.* To appear,
-   *J. Knot Theory and its Ramifications*. [J. Knot Theory and its
+   *Origins of the Temperley-Lieb algebra: early history.*
+   [J. Knot Theory and its
    Ramifications](https://doi.org/10.1142/S0218216525300010) (2025), or 
    [arXiv:2307.11929](https://arxiv.org/abs/2307.11929)
 
