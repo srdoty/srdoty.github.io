@@ -45,7 +45,7 @@ header-includes: |
 
 2. *A computational study of certain Weyl modules for type $G_2$
    in characteristic 2.* 
-   [J. Algebra](https://authors.elsevier.com/a/1ll1P4%7EFPMJ2t)
+   [J. Algebra](https://doi.org/10.1016/j.jalgebra.2025.08.022)
    686, 503--543, (2026).
 
 1. (with Anthony Giaquinto)
