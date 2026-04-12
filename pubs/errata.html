@@ -8,10 +8,19 @@
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <link rel="stylesheet" href="../css/basic.css" />
   <style>
@@ -31,24 +40,93 @@
 <main>
 <h3 id="comments">Comments</h3>
 <ol type="1">
-<li>(Reporting an inaccuracy.) Starting in 2001, many papers giving presentations of Schur algebras, <span class="math inline"><em>q</em></span>-Schur algebras, and generalized Schur (and <span class="math inline"><em>q</em></span>-Schur) algebras were published, by myself with Giaquinto, myself, Du and Parshall, and a number of others. In all of those papers, the (<span class="math inline"><em>q</em></span>)-Serre relations were imposed on the generators of of the plus and minus parts of the (quantized) enveloping algebra. However, as pointed out by R. Rouquier, the (<span class="math inline"><em>q</em></span>)-Serre relations are <em>consequences</em> of the other defining relations, and thus can be omitted from the presentations in all of those papers. Details and a proof can be found in the paper (with Anthony Giaquinto): [<em>Cellular bases of generalised <span class="math inline"><em>q</em></span>-Schur algebras,</em> <a href="https://doi.org/10.1017/S0305004116000621">Math. Proc. Camb. Philos. Soc. 162, 533–560 (2017)</a>].</li>
+<li>(Reporting an inaccuracy.) Starting in 2001, many papers giving
+presentations of Schur algebras, <span
+class="math inline"><em>q</em></span>-Schur algebras, and generalized
+Schur (and <span class="math inline"><em>q</em></span>-Schur) algebras
+were published, by myself with Giaquinto, myself, Du and Parshall, and a
+number of others. In all of those papers, the (<span
+class="math inline"><em>q</em></span>)-Serre relations were imposed on
+the generators of of the plus and minus parts of the (quantized)
+enveloping algebra. However, as pointed out by R. Rouquier, the (<span
+class="math inline"><em>q</em></span>)-Serre relations are
+<em>consequences</em> of the other defining relations, and thus can be
+omitted from the presentations in all of those papers. Details and a
+proof can be found in the paper (with Anthony Giaquinto): [<em>Cellular
+bases of generalised <span class="math inline"><em>q</em></span>-Schur
+algebras,</em> <a href="https://doi.org/10.1017/S0305004116000621">Math.
+Proc. Camb. Philos. Soc. 162, 533–560 (2017)</a>].</li>
 </ol>
 <h3 id="errata">Errata</h3>
 <ol type="1">
-<li><p>(with J. Matthew Douglass) <em>Schur–Weyl duality and the free Lie algebra.</em> Proc. Amer. Math. Soc. 145, 3263–3277 (2017).</p>
-<p>Corollary 2.4 is incorrect. See Remark 6.1 in [S. Donkin, <a href="https://doi.org/10.1016/j.jalgebra.2019.01.030">J. Algebra 526 (2018)</a>].</p></li>
-<li><p>(with David J. Benson) <em>Schur–Weyl duality over finite fields.</em> Arch. Math. 93, 425–435 (2009).</p>
-<p>The proof of Lemma 4.1 has a minor mistake, although the result is correct. See the proof of Lemma 3.2 in [T. Cruz, <a href="https://doi.org/10.1080/00927872.2018.1513010">Commun. in Algebra 47 (2019)</a>] for a correct argument.</p></li>
-<li><p>(with Richard Dipper) <em>The rational Schur algebra.</em> Represent. Theory. 12, 58–83 (2008).</p>
-<p>The proof of Theorem 5.2 contains a gap, although the result is correct. The argument is completed in Section 1 of [S. Donkin, <a href="https://doi.org/10.1016/j.jalgebra.2014.01.034">J. Algebra 405 (2014)</a>]. As pointed out in that same reference, the presentation (in characteristic <span class="math inline">0</span>) of <span class="math inline"><em>S</em>(<em>n</em>; <em>r</em>, <em>s</em>)</span> given in Section 7 is incorrect. A correct presentation can be found in Section 6.2 of [Doty, Giaquinto, and Sullivan, <a href="https://doi.org/10.1016/j.aim.2009.01.012">Adv. Math. 221 (2009)</a>].</p></li>
-<li><p><em>Presenting generalized q-Schur algebras.</em> Represent. Theory. 7, 196–-213 (2003).</p>
-<p>In equations 8.1(b), the right hand side is missing a <em>q</em>-binimial coefficent. In equations 8.4(b), the right hand side is missing an ordinary binomial coefficient. (Thanks to Chris Bowman for reporting this.)</p></li>
-<li><p>(with Georgia Benkart) <em>Derangements and tensor powers of adjoint modules for <span class="math inline">𝔰𝔩<sub><em>n</em></sub></span>.</em> J. Algebraic Combin. 16, 31–42 (2002).</p>
-<p>There is an error in 1.15–1.18 in the published version of this paper. A corrected version of the published paper is available at <a href="https://doty.math.luc.edu/pubs/bd-08-02-2004.pdf" class="uri">https://doty.math.luc.edu/pubs/bd-08-02-2004.pdf</a> and on the <a href="https://arxiv.org/abs/math/0108106">arXiv</a>. (Thanks to Alberto Elduque for pointing out the error.)</p></li>
-<li><p>(with Anthony Giaquinto) <em>Presenting Schur algebras.</em> Internat. Math. Res. Notices. 2002, 1907 (2002).</p>
-<p>There is a small mistake in the statement of Theorems 2.3 and 3.3. The definitions of <span class="math inline"><em>Y</em><sub>−</sub></span> in equations (2.7) and (3.9) are incorrect as stated. In those sets one should replace the content <span class="math inline"><em>χ</em></span> by a different content function <span class="math inline"><em>χ</em>′</span> which is defined so that <span class="math inline"><em>χ</em>′(<em>x</em><sub><em>α</em></sub>) = <em>ε</em><sub>min(<em>i</em>, <em>j</em>)</sub></span> if <span class="math inline"><em>α</em> = <em>ε</em><sub><em>i</em></sub> − <em>ε</em><sub><em>j</em></sub></span>.</p></li>
-<li><p>(with Karin Erdmann, Stuart Martin, and Daniel K. Nakano) <em>Representation type of Schur algebras.</em> Math Z. 232, 137–182 (1999).</p>
-<p>The Schur algebra <span class="math inline"><em>S</em>(2, 11)</span> for <span class="math inline"><em>p</em> = 2</span> is tame. Theorems (A) and (B) in Section 1.2 should be corrected accordingly. The mistake comes from the first sentence in 3.5, which is incorrect. (Thanks to Qi Wang for pointing out the error.)</p></li>
+<li><p>(with J. Matthew Douglass) <em>Schur–Weyl duality and the free
+Lie algebra.</em> Proc. Amer. Math. Soc. 145, 3263–3277 (2017).</p>
+<p>Corollary 2.4 is incorrect. See Remark 6.1 in [S. Donkin, <a
+href="https://doi.org/10.1016/j.jalgebra.2019.01.030">J. Algebra 526
+(2018)</a>].</p></li>
+<li><p>(with David J. Benson) <em>Schur–Weyl duality over finite
+fields.</em> Arch. Math. 93, 425–435 (2009).</p>
+<p>The proof of Lemma 4.1 has a minor mistake, although the result is
+correct. See the proof of Lemma 3.2 in [T. Cruz, <a
+href="https://doi.org/10.1080/00927872.2018.1513010">Commun. in Algebra
+47 (2019)</a>] for a correct argument.</p></li>
+<li><p><em>Constructing quantized enveloping algebras via inverse limits
+of finite dimensional algebras.</em> J. of Algebra 321, 1225–1238
+(2009).</p>
+<p>In 3.3 and 3.4, the algebra <span
+class="math inline"><strong>U̇</strong></span> is generated by all <span
+class="math inline">$(\widehat{E}_{\pm})^{a} \widehat{1}_\lambda$</span>
+(for <span class="math inline"><em>a</em> ∈ ℤ<sub> ≥ 0</sub></span>,
+<span class="math inline"><em>i</em> ∈ <em>I</em></span>, <span
+class="math inline"><em>λ</em> ∈ <em>X</em></span>).</p></li>
+<li><p>(with Richard Dipper) <em>The rational Schur algebra.</em>
+Represent. Theory 12, 58–83 (2008).</p>
+<p>The proof of Theorem 5.2 contains a gap, although the result is
+correct. The argument is completed in Section 1 of [S. Donkin, <a
+href="https://doi.org/10.1016/j.jalgebra.2014.01.034">J. Algebra 405
+(2014)</a>]. As pointed out in that same reference, the presentation (in
+characteristic <span class="math inline">0</span>) of <span
+class="math inline"><em>S</em>(<em>n</em>; <em>r</em>, <em>s</em>)</span>
+given in Section 7 is incorrect. A correct presentation can be found in
+Section 6.2 of [Doty, Giaquinto, and Sullivan, <a
+href="https://doi.org/10.1016/j.aim.2009.01.012">Adv. Math. 221
+(2009)</a>].</p></li>
+<li><p><em>Presenting generalized q-Schur algebras.</em> Represent.
+Theory 7, 196–-213 (2003).</p>
+<p>In equations 8.1(b), the right hand side is missing a
+<em>q</em>-binimial coefficent. In equations 8.4(b), the right hand side
+is missing an ordinary binomial coefficient. (Thanks to Chris Bowman for
+reporting this.)</p></li>
+<li><p>(with Georgia Benkart) <em>Derangements and tensor powers of
+adjoint modules for <span
+class="math inline">𝔰𝔩<sub><em>n</em></sub></span>.</em> J. Algebraic
+Combin. 16, 31–42 (2002).</p>
+<p>There is an error in 1.15–1.18 in the published version of this
+paper. A corrected version of the published paper is available at <a
+href="https://doty.math.luc.edu/pubs/bd-08-02-2004.pdf"
+class="uri">https://doty.math.luc.edu/pubs/bd-08-02-2004.pdf</a> and on
+the <a href="https://arxiv.org/abs/math/0108106">arXiv</a>. (Thanks to
+Alberto Elduque for pointing out the error.)</p></li>
+<li><p>(with Anthony Giaquinto) <em>Presenting Schur algebras.</em>
+Internat. Math. Res. Notices. 2002, 1907 (2002).</p>
+<p>There is a small mistake in the statement of Theorems 2.3 and 3.3.
+The definitions of <span
+class="math inline"><em>Y</em><sub>−</sub></span> in equations (2.7) and
+(3.9) are incorrect as stated. In those sets one should replace the
+content <span class="math inline"><em>χ</em></span> by a different
+content function <span class="math inline"><em>χ</em>′</span> which is
+defined so that <span
+class="math inline"><em>χ</em>′(<em>x</em><sub><em>α</em></sub>) = <em>ε</em><sub>min(<em>i</em>, <em>j</em>)</sub></span>
+if <span
+class="math inline"><em>α</em> = <em>ε</em><sub><em>i</em></sub> − <em>ε</em><sub><em>j</em></sub></span>.</p></li>
+<li><p>(with Karin Erdmann, Stuart Martin, and Daniel K. Nakano)
+<em>Representation type of Schur algebras.</em> Math Z. 232, 137–182
+(1999).</p>
+<p>The Schur algebra <span class="math inline"><em>S</em>(2, 11)</span>
+for <span class="math inline"><em>p</em> = 2</span> is tame. Theorems
+(A) and (B) in Section 1.2 should be corrected accordingly. The mistake
+comes from the first sentence in 3.5, which is incorrect. (Thanks to Qi
+Wang for pointing out the error.)</p></li>
 </ol>
 </main>
 </body>
