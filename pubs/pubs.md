@@ -51,8 +51,8 @@ header-includes: |
 1. (with Anthony Giaquinto)
    *Origins of the Temperley-Lieb algebra: early history.*
    [J. Knot Theory and its
-   Ramifications](https://doi.org/10.1142/S0218216525300010) (2025), or 
-   [arXiv:2307.11929](https://arxiv.org/abs/2307.11929)
+   Ramifications](https://doi.org/10.1142/S0218216525300010)
+   36, no. 6, Paper no. 2530001 (2026).
 
 1. (with Chris Bowman and Stuart Martin)
    *Canonical bases and new applications of increasing and decreasing
