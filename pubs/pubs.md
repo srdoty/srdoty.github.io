@@ -35,8 +35,8 @@ header-includes: |
 ### Preprints
 
 1. (with Anthony Giaquinto and Stuart Martin)
-   *An orthogonal bimodule decomposition of quantized tensor space
-   realizing Jimbo's Schur-Weyl duality.* Preprint 2025,
+   *Lowering operators, orthogonal decomposition of tensor space,
+   and quantized Schur--Weyl duality.* Preprint 2025,
    [arxiv.org/abs/2511.00169](https://arxiv.org/abs/2511.00169)
 
 
